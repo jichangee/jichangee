@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -7,8 +9,6 @@ Other        7 hrs 15 mins   █████████████████
 ```
 
 <!--END_SECTION:waka-->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **jichangee/jichangee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
