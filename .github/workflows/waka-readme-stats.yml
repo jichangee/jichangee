@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.TOKEN }}
           SHOW_COMMIT: "True"
           SHOW_LINES_OF_CODE: "False"
+          SHOW_PROJECTS: "False"
