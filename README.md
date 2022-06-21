@@ -73,12 +73,11 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 **Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/jichangee/jichangee/main/charts/bar_graph.png) 
-
-
  Last Updated on 19/06/2022 16:08:25 UTC
 <!--END_SECTION:waka-->
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **jichangee/jichangee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
