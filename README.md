@@ -80,8 +80,10 @@ HTML                     1 repo              ░░░░░░░░░░░�
  Last Updated on 21/06/2022 16:12:02 UTC
 <!--END_SECTION:waka-->
 
+<!--
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+-->
 
 <!--
 **jichangee/jichangee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
