@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Snake Light](https://raw.githubusercontent.com/jichangee/jichangee/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/jichangee/jichangee/output/github-snake-dark.svg#gh-dark-mode-only)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2053%20mins-blue)
 
