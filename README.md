@@ -6,7 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 January 2023 - To: 30 January 2023
+
+Vue.js       42 mins         ███████████████████████▓░   94.04 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+SCSS         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
