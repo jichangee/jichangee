@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 April 2023 - To: 06 May 2023
+From: 30 April 2023 - To: 07 May 2023
 
 JavaScript   5 hrs 37 mins   ██████████████████▒░░░░░░   73.64 %
 Vue.js       1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   19.34 %
