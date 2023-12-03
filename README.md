@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 November 2023 - To: 26 November 2023
+From: 26 November 2023 - To: 03 December 2023
 
-Total Time: 21 hrs 42 mins
+Total Time: 15 hrs 20 mins
 
-Vue.js       16 hrs 38 mins  >>>>>>>>>>>>>>>>>>>------   76.66 %
-React.js     2 hrs 5 mins    >>-----------------------   09.64 %
-JavaScript   1 hr 3 mins     >------------------------   04.91 %
-JSON         31 mins         >------------------------   02.42 %
-TypeScript   29 mins         >------------------------   02.29 %
+Vue.js       10 hrs 57 mins  >>>>>>>>>>>>>>>>>>-------   71.02 %
+React.js     1 hr 40 mins    >>>----------------------   10.84 %
+JSON         1 hr            >>-----------------------   06.54 %
+JavaScript   55 mins         >>-----------------------   06.01 %
+SCSS         25 mins         >------------------------   02.71 %
 ```
 
 <!--END_SECTION:waka-->
