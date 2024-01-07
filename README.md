@@ -6,15 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 December 2023 - To: 31 December 2023
+From: 31 December 2023 - To: 07 January 2024
 
-Total Time: 16 hrs 22 mins
+Total Time: 14 hrs 24 mins
 
-Vue.js       15 hrs 4 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.13 %
-JSON         36 mins         >------------------------   03.74 %
-JavaScript   33 mins         >------------------------   03.43 %
-React.js     6 mins          -------------------------   00.65 %
-SCSS         0 secs          -------------------------   00.02 %
+Vue.js       13 hrs 34 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.16 %
+JavaScript   36 mins         >------------------------   04.22 %
+JSON         14 mins         -------------------------   01.62 %
 ```
 
 <!--END_SECTION:waka-->
