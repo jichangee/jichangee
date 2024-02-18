@@ -6,12 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 February 2024 - To: 11 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-Total Time: 1 hr 53 mins
+Total Time: 3 hrs 17 mins
 
-JavaScript   1 hr 3 mins     >>>>>>>>>----------------   36.10 %
-Other        1 hr            >>>>>>>>>----------------   34.73 %
+Vue.js       3 hrs 14 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.01 %
+JavaScript   2 mins          -------------------------   01.49 %
+Other        0 secs          -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->
