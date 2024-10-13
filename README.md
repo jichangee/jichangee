@@ -6,11 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 September 2024 - To: 06 October 2024
+From: 06 October 2024 - To: 13 October 2024
 
-Total Time: 0 secs
+Total Time: 14 hrs 23 mins
 
-No activity tracked
+Vue.js       12 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>----   84.22 %
+JavaScript   1 hr 29 mins    >>>----------------------   10.29 %
+JSON         25 mins         >------------------------   02.91 %
+Python       9 mins          -------------------------   01.10 %
+HTML         6 mins          -------------------------   00.79 %
 ```
 
 <!--END_SECTION:waka-->
