@@ -6,13 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 January 2025 - To: 26 January 2025
+From: 26 January 2025 - To: 02 February 2025
 
-Total Time: 7 hrs 43 mins
+Total Time: 0 secs
 
-Vue.js       7 hrs 30 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.21 %
-JavaScript   12 mins         >------------------------   02.66 %
-JSON         0 secs          -------------------------   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
