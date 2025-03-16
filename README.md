@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 March 2025 - To: 09 March 2025
+From: 09 March 2025 - To: 16 March 2025
 
-Total Time: 13 hrs 33 mins
+Total Time: 11 hrs 20 mins
 
-Vue.js       10 hrs 44 mins  >>>>>>>>>>>>>>>>>>>>-----   79.23 %
-JavaScript   1 hr 35 mins    >>>----------------------   11.73 %
-Kotlin       40 mins         >------------------------   04.96 %
-JSON         28 mins         >------------------------   03.49 %
-Java         2 mins          -------------------------   00.36 %
+Vue.js       6 hrs 42 mins   >>>>>>>>>>>>>>>----------   58.82 %
+JavaScript   1 hr 48 mins    >>>>---------------------   15.77 %
+TypeScript   56 mins         >>-----------------------   08.21 %
+Kotlin       34 mins         >------------------------   05.00 %
+JSON         26 mins         >------------------------   03.92 %
 ```
 
 <!--END_SECTION:waka-->
