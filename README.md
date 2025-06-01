@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 May 2025 - To: 25 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Total Time: 10 hrs 4 mins
+Total Time: 6 hrs 57 mins
 
-Vue.js       8 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>-----   80.05 %
-TypeScript   37 mins         >>-----------------------   06.17 %
-JavaScript   34 mins         >------------------------   05.65 %
-SCSS         23 mins         >------------------------   03.83 %
-JSON         20 mins         >------------------------   03.39 %
+Vue.js       3 hrs 27 mins   >>>>>>>>>>>>-------------   49.34 %
+Python       1 hr 2 mins     >>>>---------------------   14.85 %
+TypeScript   1 hr            >>>>---------------------   14.43 %
+Bash         34 mins         >>-----------------------   08.31 %
+JavaScript   34 mins         >>-----------------------   08.27 %
 ```
 
 <!--END_SECTION:waka-->
