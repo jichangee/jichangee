@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 February 2026 - To: 08 February 2026
+From: 08 February 2026 - To: 15 February 2026
 
-Total Time: 9 hrs 16 mins
+Total Time: 3 hrs 39 mins
 
-Vue.js       7 hrs 27 mins   >>>>>>>>>>>>>>>>>>>>-----   80.13 %
-JSON         41 mins         >>-----------------------   07.45 %
-JavaScript   26 mins         >------------------------   04.75 %
-TypeScript   16 mins         >------------------------   02.87 %
-PowerShell   11 mins         >------------------------   02.01 %
+Vue.js       3 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.13 %
+JSON         8 mins          >------------------------   03.98 %
+Markdown     1 min           -------------------------   00.88 %
+SCSS         1 min           -------------------------   00.75 %
+JavaScript   0 secs          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
