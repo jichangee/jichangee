@@ -6,14 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 April 2026 - To: 03 May 2026
+From: 03 May 2026 - To: 10 May 2026
 
-Total Time: 5 hrs 45 mins
+Total Time: 6 hrs 9 mins
 
-Vue           2 hrs 3 mins          >>>>>>>>>----------------   34.48 %
-Markdown      1 hr 41 mins          >>>>>>>------------------   28.34 %
-TypeScript    1 hr 38 mins          >>>>>>>------------------   27.48 %
-Other         11 mins               >------------------------   03.35 %
+Markdown     2 hrs 29 mins         >>>>>>>>>----------------   36.95 %
+Vue          1 hr 14 mins          >>>>>--------------------   18.44 %
+TypeScript   1 hr 12 mins          >>>>---------------------   17.99 %
+JavaScript   1 hr 2 mins           >>>>---------------------   15.32 %
+Other        36 mins               >>-----------------------   08.94 %
 ```
 
 <!--END_SECTION:waka-->
