@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 September 2026 - To: 20 September 2026
+From: 20 September 2026 - To: 27 September 2026
 
-Total Time: 17 hrs 58 mins
+Total Time: 7 hrs 41 mins
 
-Vue          12 hrs 55 mins        >>>>>>>>>>>>>>>>>--------   69.45 %
-Markdown     2 hrs 31 mins         >>>----------------------   13.58 %
-JavaScript   1 hr 47 mins          >>-----------------------   09.66 %
-Other        36 mins               >------------------------   03.31 %
+Markdown       2 hrs 45 mins         >>>>>>>>-----------------   32.27 %
+Vue            1 hr 26 mins          >>>>---------------------   16.84 %
+JavaScript     1 hr 4 mins           >>>----------------------   12.65 %
+Other          51 mins               >>>----------------------   10.04 %
 ```
 
 <!--END_SECTION:waka-->
