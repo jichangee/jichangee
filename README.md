@@ -6,11 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 October 2026 - To: 18 October 2026
+From: 18 October 2026 - To: 25 October 2026
 
-Total Time: 9 hrs 6 mins
+Total Time: 11 hrs 6 mins
 
-Other          4 hrs 12 mins         >>>>>>>>-----------------   31.60 %
+Vue            6 hrs 58 mins         >>>>>>>>>>>>>------------   50.62 %
+Other          2 hrs 40 mins         >>>>>--------------------   19.42 %
 ```
 
 <!--END_SECTION:waka-->
